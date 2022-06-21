@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Base Converter</string>
+
+    <string-array name="entry_array">
+        <item>Binary</item>
+        <item>Octal</item>
+        <item>Decimal</item>
+        <item>Hexadecimal</item>
+    </string-array>
+
+    <string name="result">Result Section</string>
+    <string name="follow">Follow instagram.com/needsfornerds</string>
+</resources>
